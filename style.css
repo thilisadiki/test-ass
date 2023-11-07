@@ -1,10 +1,11 @@
 .wrapper {
     display: inline-flex;
-    flex-direction: column;text-wrapper-2
+    flex-direction: column;
     align-items: flex-start;
     gap: 80px;
     position: relative;
     background-color: #2d1e6b;
+    
   }
   
   .wrapper .banner {
